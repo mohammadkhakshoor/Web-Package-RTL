@@ -18,7 +18,7 @@ If you want A Full Web Package Direction RTL that is usefull For WebPages easy t
 ## How use it?
 You can download As zip and use any package you need for your website . 
 + install npm package for all packages:
-    + `npm install`
+    + `npm install` or for short `npm i`
 
 
 # Demo
